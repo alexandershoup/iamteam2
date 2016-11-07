@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/DaneTest/Scenes/DaneTestScene02_Spawning.unity
-  isLoaded: 1
-  isActive: 1
